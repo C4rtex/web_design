@@ -89,3 +89,33 @@ h1::after {
     margin-bottom: 30px;
     color: #00f7ff;
 }
+
+.container-pres {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 20px;
+    margin-top: 5rem;
+}
+
+.svg_imagen {
+    position: relative;
+    width: 500px;
+    height: 400px;
+    right: 300px;
+}
+
+.container_parrafo {
+    position: absolute;
+    left: 60%;
+    top: 5%;
+    padding-top: 0px;
+    width: 400px;
+    right: 50px;
+}
+
+.parrafo {
+    text-align: left;
+}
